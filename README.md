@@ -1,8 +1,9 @@
 # FlashCards Starter Kit
-
+Abstract:
 - This project introduced me to unit testing and required me to write all the tests and functions to make the application functional
 
 Working Project:
+![Screen Recording 2024-03-21 at 3 55 08 PM](https://github.com/BrandonDoza/flashcards-starter/assets/141676838/337583a1-12a4-470a-83f4-651ef5f9d574)
 
 Technologies Used:
 - Javascript
